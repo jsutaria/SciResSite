@@ -484,7 +484,6 @@ ul.sub-menu {
 
 .hr-footer {
   border: 1px solid #ece7e7;
-  margin-top: 1em;
   margin-bottom: 1em;
 }
 .footer {
@@ -1945,10 +1944,10 @@ span.stMainServices, span.stButton_gradient, .stButton .chicklets {
   color: #22BBF4;
   border-color: #22BBF4;
 }
-#error-page i.fa-google-plus:hover, #coming-soon i.fa-google-plus:hover {
+#error-page i.fa-envelope-o:hover, #coming-soon i.fa-google-plus:hover {
   background-color: transparent;
-  color: #DD4C3B;
-  border-color: #DD4C3B;
+  color: #EC5C49;
+  border-color: #EC5C49;
 }
 
 /*************************
